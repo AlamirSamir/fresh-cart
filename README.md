@@ -1,5 +1,20 @@
 # 🛒 Fresh Cart
 
+# 🛒 Fresh Cart
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-009688?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
+
+A modern and responsive e-commerce web application built with **Angular** that allows users to browse products, manage their shopping cart, wishlist, and securely authenticate.
+
+## 🚀 Live Demo
+...
+
 A modern and responsive e-commerce web application built with **Angular** that allows users to browse products, manage their shopping cart, wishlist, and securely authenticate.
 
 ## 🚀 Live Demo
