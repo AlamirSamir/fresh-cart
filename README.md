@@ -11,11 +11,6 @@
 A modern and responsive e-commerce web application built with **Angular** that allows users to browse products, manage their shopping cart, wishlist, and securely authenticate.
 
 ## 🚀 Live Demo
-...
-
-A modern and responsive e-commerce web application built with **Angular** that allows users to browse products, manage their shopping cart, wishlist, and securely authenticate.
-
-## 🚀 Live Demo
 
 🔗 https://fresh-cart-xi-gilt.vercel.app/home
 
