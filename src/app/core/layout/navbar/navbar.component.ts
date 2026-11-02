@@ -21,6 +21,11 @@ export class NavbarComponent implements OnInit {
 
   cartnumber:number = 0;
   wishNumber:number = 0;
+  isMenuOpen = false;
+
+  toggleMenu(): void {
+    this.isMenuOpen = !this.isMenuOpen;
+  }
 
   ngOnInit(): void {
 
